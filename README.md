@@ -8,6 +8,8 @@ Criado com <3 para desenvolvedores de front-end que precisam de um back-end ráp
 ```sh
     https://github.com/CaioFFerreira/api-rest-json-server-deploy.git
 ```
+
+- db.json
 ```
 {
   "users": [
@@ -25,14 +27,8 @@ Criado com <3 para desenvolvedores de front-end que precisam de um back-end ráp
 }
 
 ```
+- `users` passa a ser um EndPoint quando o deploy for feito.
 
-
-
-### Protótipo criado para o projeto:
-- [Figma](https://www.figma.com/file/ThFbOmnzVioRELBTgpdo5d/UI-Instruct---teste-front-end)
-
-### Site em produção
-- https://voughtech.herokuapp.com/
 
 Contato
 ----
