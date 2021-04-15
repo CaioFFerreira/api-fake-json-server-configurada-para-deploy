@@ -62,13 +62,11 @@ Você pode adicionar mais EndPoints dentro do mesmo arquivo.
 }
 
 ```
-- `users` passa a ser um EndPoint quando o deploy for feito.
 -  `city` passa a ser outro EndPoint.
 
+# Passo 2 
 
-
-
-
+Depois de criar seus EndPoints faça o commit de todos arquivos para o repositório, você pode criar um novo ou como preferir desde que tenha essa mesma estrutura do oficial.
 
 Contato
 ----
