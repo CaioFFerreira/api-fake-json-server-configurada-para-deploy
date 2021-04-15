@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Super mario",
+      "age": 98
+    },
+    {
+      "id": 2,
+      "name": "Caio Fábio Duarte Ferreira",
+      "age": 26
+    }
+  ],
+
+  "city": [
+    {
+      "id": 1,
+      "name": "São Paulo",
+      "population": 1198
+    },
+    {
+      "id": 2,
+      "name": "Rio de Janeiro",
+      "population": 2226
+    }
+  ]
+}
