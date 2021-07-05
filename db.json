@@ -4,18 +4,24 @@
       "id": 1,
       "name": "equinix",
       "password": "1234",
+      "execution_date": "03/06/1994",
+      "message": "successfully changed",
       "status": "changed"
     },
     {
       "id": 2,
       "name": "equinixadmin",
       "password": "1234",
+      "execution_date": "03/06/1994",
+      "message": "Error",
       "status": "error"
     },
     {
       "id": 3,
       "name": "equinixbackup",
       "password": "1234",
+      "execution_date": "03/06/1994",
+      "message": "successfully changed",
       "status": "changed"
     }
   ],
