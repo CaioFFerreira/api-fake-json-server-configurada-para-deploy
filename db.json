@@ -3,17 +3,17 @@
     {
       "key": 1,
       "name": "equinix",
-      "status": "changed",
+      "status": "changed"
     },
     {
       "key": 2,
       "name": "equinixadmin",
-      "status": "error",
+      "status": "error"
     },
     {
       "key": 3,
       "name": "equinixbackup",
-      "status": "changed",
+      "status": "changed"
     }
   ],
 
