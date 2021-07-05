@@ -1,14 +1,19 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Super mario",
-      "age": 98
+      "key": 1,
+      "name": "equinix",
+      "status": "changed",
     },
     {
-      "id": 2,
-      "name": "Caio Fábio Duarte Ferreira",
-      "age": 26
+      "key": 2,
+      "name": "equinixadmin",
+      "status": "error",
+    },
+    {
+      "key": 3,
+      "name": "equinixbackup",
+      "status": "changed",
     }
   ],
 
