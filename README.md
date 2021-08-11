@@ -71,6 +71,8 @@ Depois de criar seus EndPoints faça o commit de todos arquivos para o repositó
 
 # Passo 3
 
+[Video tutorial fazendo o deploy no heroku](https://www.youtube.com/)
+
 Contato
 ----
 - [Linkedin caio](https://www.linkedin.com/in/caio-fabio-duarte-ferreira/)
