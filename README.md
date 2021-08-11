@@ -2,7 +2,7 @@
 Criado com <3 para desenvolvedores front-end que precisam de um back-end rápido para prototipagem e simulação.
 
 # Passo 1 
-- Faça o Fork do Repositório ou Clone
+- Faça o Fork do Repositório
 - Os arquivos já estão configurados, a única coisa que você precisa alterar é os dados do arquivo db.json
 
 ```sh
@@ -66,10 +66,10 @@ Você pode adicionar mais EndPoints dentro do mesmo arquivo.
 
 # Passo 2 
 
-Depois de criar seus EndPoints faça o commit de todos arquivos para o repositório, você pode criar um novo ou como preferir desde que tenha essa mesma estrutura do oficial.
+Depois de criar seus EndPoints faça o commit de todos arquivos para o repositório, você pode criar um novo ou como preferir, desde que tenha essa mesma estrutura do oficial.
 
 
-# Passo 2 
+# Passo 3
 
 Contato
 ----
