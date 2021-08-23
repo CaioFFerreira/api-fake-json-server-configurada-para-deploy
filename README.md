@@ -1,4 +1,5 @@
-# Como fazer o deploy de seu json-server no Heroku
+# json-server configurado para deploy
+
 Criado com <3 para desenvolvedores front-end que precisam de um back-end rápido para prototipagem e simulação.
 
 # Passo 1 
@@ -68,10 +69,9 @@ Você pode adicionar mais EndPoints dentro do mesmo arquivo.
 
 Depois de criar seus EndPoints faça o commit de todos arquivos para o repositório, você pode criar um novo ou como preferir, desde que tenha essa mesma estrutura do oficial.
 
-
 # Passo 3
 
-[Video tutorial fazendo o deploy no heroku](https://www.youtube.com/)
+Faça deploy do seu repositório.
 
 Contato
 ----
