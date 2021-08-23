@@ -75,6 +75,16 @@ Faça deploy do seu repositório.
 
 [Tutorial Heroku](https://devcenter.heroku.com/articles/github-integration)
 
+# Passo 4
+
+Após o deploy acesse o link gerado. 
+
+[Exemplo repositório Link](https://jsonserverfake.herokuapp.com/)
+
+- [Endpoint users](https://jsonserverfake.herokuapp.com/users)
+- [EndPoint city](https://jsonserverfake.herokuapp.com/city)
+
+
 Contato
 ----
 - [Linkedin caio](https://www.linkedin.com/in/caio-fabio-duarte-ferreira/)
