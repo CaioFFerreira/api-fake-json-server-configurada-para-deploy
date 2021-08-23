@@ -71,7 +71,9 @@ Depois de criar seus EndPoints faça o commit de todos arquivos para o repositó
 
 # Passo 3
 
-Faça deploy do seu repositório.
+Faça deploy do seu repositório. 
+
+[Tutorial Heroku](https://devcenter.heroku.com/articles/github-integration)
 
 Contato
 ----
