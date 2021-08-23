@@ -1,6 +1,6 @@
 # json-server configurado para deploy
 
-Criado com <3 para desenvolvedores front-end que precisam de um back-end rápido para prototipagem e simulação.
+Criado com <3 para desenvolvedores front-end que precisam de dados para codificação.
 
 # Passo 1 
 - Faça o Fork do Repositório
